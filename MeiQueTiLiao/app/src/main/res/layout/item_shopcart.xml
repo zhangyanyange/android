@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp"
+        app:cardCornerRadius="10dp"
+        app:contentPadding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="85dp">
+
+                <ImageView
+                    android:id="@+id/iv_dot"
+                    android:layout_width="8dp"
+                    android:layout_height="45dp"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/dot" />
+
+                <TextView
+                    android:id="@+id/customName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="10dp"
+                    android:text="郎建宇"
+                    android:textSize="18sp"
+
+                    />
+                    <RelativeLayout
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+                        <TextView
+                            android:id="@+id/custonPhone"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="15776602712"
+                            android:textSize="14sp" />
+
+                        <TextView
+                            android:id="@+id/tv_count"
+                            android:layout_width="50dp"
+                            android:gravity="center"
+                            android:layout_height="wrap_content"
+                            android:text="16"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="75dp"
+                            android:textSize="14sp" />
+
+
+                    </RelativeLayout>
+
+
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_centerVertical="true"
+                    android:id="@+id/custonLocation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="删除"
+                    android:paddingTop="6dp"
+                    android:paddingBottom="6dp"
+                    android:paddingRight="16dp"
+                    android:paddingLeft="16dp"
+                    android:background="@drawable/type_qitan"
+                    android:textColor="#00FFFF"
+                    android:textSize="18sp" />
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="50dp"
+                    >
+                   <TextView
+                       android:layout_width="50dp"
+                       android:layout_height="30dp"
+                       android:background="@drawable/type_qitan1"
+                       android:id="@+id/tv_less"
+                       android:text="-"
+                       android:gravity="center"
+                       android:textSize="20sp"
+                       android:textColor="#00FFFF"
+                       />
+                    <TextView
+                        android:id="@+id/tv_add"
+                        android:text="+"
+                        android:layout_width="50dp"
+                        android:layout_height="30dp"
+                        android:background="@drawable/type_qitan1"
+                        android:gravity="center"
+                        android:textSize="20sp"
+                        android:textColor="#00FFFF"
+                        />
+                </LinearLayout>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+</android.support.v7.widget.CardView>
+</LinearLayout>

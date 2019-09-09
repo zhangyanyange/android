@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.github.ybq.android.spinkit.SpinKitView
+        android:layout_centerInParent="true"
+        android:id="@+id/spin_kit"
+        style="@style/SpinKitView.Circle"
+        app:SpinKit_Color="@color/colorAccent"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:layout_below="@id/spin_kit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:layout_centerInParent="true"
+        android:text="加载中..."
+        android:textColor="#f00" />
+
+</RelativeLayout>

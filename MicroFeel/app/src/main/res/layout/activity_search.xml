@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_search"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.mvc.microfeel.activity.SearchActivity">
+    <FrameLayout
+        android:id="@+id/frame_bg"
+        android:layout_height="60dp"
+        android:padding="6dp"
+        android:layout_width="match_parent"
+        android:background="#bdbdbd">
+        <LinearLayout
+            android:layout_gravity="center"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/iv_arrow"
+                android:layout_gravity="center|left"
+                android:src="@drawable/back"
+                android:layout_width="14dp"
+                android:layout_height="24dp" />
+            <TextView
+                android:layout_marginLeft="3dp"
+                android:id="@+id/tv_search_bg"
+                android:layout_marginRight="3dp"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:background="@drawable/content_bg"
+                android:layout_gravity="center"
+                android:padding="6dp" />
+
+
+        </LinearLayout>
+
+
+        <EditText
+            android:background="@null"
+            android:id="@+id/tv_hint"
+            android:textColor="#000"
+            android:drawableLeft="@drawable/qs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="35dp"
+            android:singleLine="true"
+            android:textColorHint="#666"
+            android:layout_gravity="center_vertical"
+            android:hint="根据地址搜索项目" />
+    </FrameLayout>
+    <ListView
+        android:id="@+id/lvProgect"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

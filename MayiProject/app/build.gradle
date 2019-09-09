@@ -1,0 +1,79 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        release {
+            keyAlias 'zy'
+            keyPassword '13946950182'
+            storeFile file('C:/Users/zy2/Desktop/mayi.jks')
+            storePassword '13946950182'
+        }
+    }
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+    defaultConfig {
+        applicationId "com.myygjc.ant.project"
+        minSdkVersion 17
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        ndk {
+            //选择要添加的对应cpu类型的.so库。
+            abiFilters 'armeabi', 'armeabi-v7a', 'armeabi-v8a'
+            // 还可以添加 'x86', 'x86_64', 'mips', 'mips64'
+        }
+        manifestPlaceholders = [
+                JPUSH_PKGNAME: applicationId,
+                JPUSH_APPKEY : "288e11f179a32a30ba259dca", //JPush上注册的包名对应的appkey.
+                JPUSH_CHANNEL: "developer-default", //暂时填写默认值即可.
+        ]
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+        debug {
+            signingConfig signingConfigs.release
+        }
+    }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    // 此处以JPush 3.0.0 版本为例。
+    compile files('libs/okio-1.6.0.jar')
+    compile files('libs/okhttp-2.6.0.jar')
+    compile files('libs/gson-2.2.3.jar')
+    compile files('libs/libammsdk.jar')
+    compile files('libs/alipaySdk-20161222.jar')
+    compile 'cn.jiguang:jpush:2.1.8'
+    compile 'org.greenrobot:eventbus:3.0.0'
+    compile 'com.bigkoo:alertview:1.0.3'
+    compile 'de.hdodenhof:circleimageview:2.1.0'
+    compile 'com.baoyz.swipemenulistview:library:1.3.0'
+    compile 'com.bigkoo:snappingstepper:1.0.2'
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'com.android.support:recyclerview-v7:24.2.1'
+    compile 'com.bigkoo:pickerview:2.1.1'
+    compile 'com.github.ybq:Android-SpinKit:1.1.0'
+    compile 'com.jakewharton:butterknife:7.0.1'
+    compile 'com.zhy:okhttputils:2.3.8'
+    compile 'com.github.sd6352051.niftydialogeffects:niftydialogeffects:1.0.0@aar'
+    compile 'com.github.hackware1993:MagicIndicator:1.5.0'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile 'com.gxz.pagerslidingtabstrip:library:1.3'
+    compile 'com.android.support:design:24.2.1'
+    testCompile 'junit:junit:4.12'
+}

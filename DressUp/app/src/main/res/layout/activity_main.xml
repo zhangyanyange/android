@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.mvc.dresssup.MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.mvc.dresssup.view.NoScroolViewPager
+            android:id="@+id/vp_content"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/gray"
+            />
+        <RadioGroup
+            android:id="@+id/rgGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/rb_home"
+                style="@style/fragment_content"
+                android:checked="true"
+                android:drawableTop="@drawable/tab_home_selector"
+                android:text="首页" />
+
+            <RadioButton
+                android:id="@+id/rb_order"
+                style="@style/fragment_content"
+                android:drawableTop="@drawable/tab_gov_selector"
+                android:text="订单" />
+            <RadioButton
+                android:id="@+id/rb_kefu"
+                style="@style/fragment_content"
+                android:drawableTop="@drawable/more_selector"
+                android:text="客服" />
+            <RadioButton
+                android:id="@+id/rb_setting"
+                style="@style/fragment_content"
+                android:drawableTop="@drawable/tab_setting_selector"
+                android:text="我的" />
+
+        </RadioGroup>
+    </LinearLayout>
+</LinearLayout>

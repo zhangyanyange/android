@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.myygjc.ant.project.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.myygjc.ant.project.view.NoScroolViewPager
+            android:id="@+id/vp_content"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+
+        <RadioGroup
+            android:id="@+id/rgGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/rb_home"
+                style="@style/fragment_content"
+                android:checked="true"
+                android:drawableTop="@drawable/tab_home_selector"
+                android:text="首页" />
+            <RadioButton
+                android:id="@+id/rb_buy"
+                style="@style/fragment_content"
+                android:drawableTop="@drawable/more_selector"
+                android:text="购买推荐" />
+            <RadioButton
+                android:id="@+id/rb_gov"
+                style="@style/fragment_content"
+                android:drawableTop="@drawable/tab_gov_selector"
+                android:text="购物车" />
+
+            <RadioButton
+                android:id="@+id/rb_setting"
+                style="@style/fragment_content"
+                android:drawableTop="@drawable/tab_setting_selector"
+                android:text="个人" />
+
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <com.myygjc.ant.project.view.WowSplashView
+        android:id="@+id/wowSplash"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+    <com.myygjc.ant.project.view.WowView
+        android:id="@+id/wowView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        />
+</RelativeLayout>

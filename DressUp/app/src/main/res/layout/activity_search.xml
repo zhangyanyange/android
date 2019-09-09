@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <FrameLayout
+        android:id="@+id/frame_bg"
+        android:layout_height="60dp"
+        android:padding="6dp"
+        android:layout_width="match_parent"
+        android:background="#bdbdbd">
+        <LinearLayout
+            android:layout_gravity="center"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/iv_arrow"
+                android:layout_gravity="center|left"
+                android:src="@drawable/back"
+                android:layout_width="14dp"
+                android:layout_height="24dp" />
+            <TextView
+                android:layout_marginLeft="3dp"
+                android:id="@+id/tv_search_bg"
+                android:layout_marginRight="3dp"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:background="@drawable/content_bg"
+                android:layout_gravity="center"
+                android:padding="6dp" />
+            <TextView
+                android:clickable="true"
+                android:layout_marginLeft="1dp"
+                android:id="@+id/tv_search"
+                android:textColor="#fff"
+                android:textSize="13sp"
+                android:layout_gravity="center|right"
+                android:text="搜索"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+
+        <EditText
+            android:background="@null"
+            android:id="@+id/tv_hint"
+            android:textColor="#000"
+            android:drawableLeft="@drawable/qs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="35dp"
+            android:singleLine="true"
+            android:layout_gravity="center_vertical"
+            android:hint="搜索品牌、材料名称" />
+    </FrameLayout>
+    <LinearLayout
+        android:id="@+id/frame_content_bg"
+        android:background="#fff"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:id="@+id/rl_history"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/tv_history"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="3dp"
+                android:layout_centerVertical="true"
+                android:textColor="#000"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="4dp"
+                android:text="历史搜索"/>
+
+        </RelativeLayout>
+        <ScrollView
+            android:background="#fff"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.mvc.dresssup.view.FlowLayout
+                android:padding="15dp"
+                android:id="@+id/ll_history"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </ScrollView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:textColor="#000"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="4dp"
+            android:text="热门搜索"
+            />
+        <ScrollView
+            android:layout_width="match_parent"
+            android:background="#fff"
+            android:layout_height="wrap_content">
+            <com.mvc.dresssup.view.FlowLayout
+                android:padding="15dp"
+                android:id="@+id/rv_search"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </ScrollView>
+
+    </LinearLayout>
+</LinearLayout>

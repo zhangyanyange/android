@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_ele_search"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#0096FF"
+        >
+        <LinearLayout
+            android:layout_gravity="center"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:clickable="true"
+                android:layout_marginLeft="1dp"
+                android:textColor="#fff"
+                android:textSize="16sp"
+                android:layout_gravity="center|right"
+
+                android:layout_width="15dp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/tv_search_bg"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:background="@drawable/ele_search_bg"
+                android:gravity="center"
+                android:padding="10dp" />
+            <ImageView
+                android:clickable="true"
+                android:layout_marginLeft="1dp"
+                android:id="@+id/tv_search"
+                android:textColor="#fff"
+                android:textSize="16sp"
+                android:layout_gravity="center|right"
+
+                android:layout_width="15dp"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:drawableLeft="@drawable/qs"
+            android:textColor="#000"
+            android:gravity="center"
+            android:text="搜索商家、商品名称" />
+
+    </FrameLayout>
+    <!--<HorizontalScrollView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:scrollbars="none"-->
+        <!--android:layout_height="wrap_content">-->
+    <net.lucode.hackware.magicindicator.MagicIndicator
+        android:id="@+id/magic_indicator1"
+        android:layout_width="match_parent"
+        android:layout_height="85dp" />
+    <!--</HorizontalScrollView>-->
+    <android.support.v4.view.ViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+</LinearLayout>

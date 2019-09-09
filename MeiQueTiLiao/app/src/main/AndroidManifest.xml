@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.microfeel.meiquetiliao">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA"/>
+
+    <application
+        android:name=".base.MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".activity.LoginActivity"
+            android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".activity.MentionMaterialActivity"
+            android:launchMode="singleTask" />
+        <activity android:name=".activity.MaterialDetailActivity" />
+        <activity android:name=".activity.MaterialActivity" />
+        <activity
+            android:name=".activity.ShopCartActivity"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+        <activity android:name=".activity.OrderInfoActivity" />
+        <activity android:name=".activity.ShippedDetailActivity" />
+        <activity
+            android:name=".activity.SearchProjectActivity"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+        <activity android:name=".activity.RetreatCartActivity" />
+        <activity android:name=".activity.RecordPhotoActivity" />
+        <activity android:name=".activity.PhotoViewActivity"/>
+
+    </application>
+
+</manifest>

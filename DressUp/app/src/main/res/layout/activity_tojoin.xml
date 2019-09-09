@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="#f1f4f6"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:id="@+id/rl_fukuan"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageButton
+            android:id="@+id/back"
+            android:layout_marginLeft="9dp"
+            android:background="@drawable/back"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:padding="10dp"
+            android:textSize="16sp"
+            android:textColor="#000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="加盟合作"
+            />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tojoin"
+            android:background="#fff"
+            android:layout_centerInParent="true"
+            />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_marginTop="5dp"
+        android:id="@+id/rl_order"
+        android:padding="8dp"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_marginLeft="5dp"
+        android:layout_centerVertical="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/talk"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:textSize="15sp"
+            android:layout_marginLeft="10dp"
+            android:text="安装服务加盟"
+            android:textColor="#000"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="7dp"
+        android:layout_centerVertical="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:textSize="12sp"
+            android:layout_marginLeft="10dp"
+            android:text="立即申请"
+            android:textColor="#666"
+            />
+        <ImageView
+            android:layout_marginRight="3dp"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:background="@drawable/message_normal"
+            />
+    </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="7dp"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:background="@drawable/ic_personal_tab_custom_topic"
+                />
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:textSize="15sp"
+                android:layout_marginLeft="10dp"
+                android:text="城市代理申请"
+                android:textColor="#000"
+                />
+
+        </LinearLayout>
+
+        <ImageView
+            android:layout_marginRight="3dp"
+            android:layout_alignParentRight="true"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:background="@drawable/message_normal"
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+    android:layout_marginTop="7dp"
+    android:background="#fff"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_centerVertical="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/ic_personal_tab_custom_topic"
+            />
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:textSize="15sp"
+            android:layout_marginLeft="10dp"
+            android:text="商家合作"
+            android:textColor="#000"
+            />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_marginRight="3dp"
+        android:layout_alignParentRight="true"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:background="@drawable/message_normal"
+        />
+
+</RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="7dp"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:background="@drawable/ic_personal_tab_custom_topic"
+                />
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:textSize="15sp"
+                android:layout_marginLeft="10dp"
+                android:text="媒体合作"
+                android:textColor="#000"
+                />
+
+        </LinearLayout>
+
+        <ImageView
+            android:layout_marginRight="3dp"
+            android:layout_alignParentRight="true"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:background="@drawable/message_normal"
+            />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_marginTop="7dp"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:background="@drawable/ic_personal_tab_custom_topic"
+                />
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:textSize="15sp"
+                android:layout_marginLeft="10dp"
+                android:text="广告合作"
+                android:textColor="#000"
+                />
+
+        </LinearLayout>
+
+        <ImageView
+            android:layout_marginRight="3dp"
+            android:layout_alignParentRight="true"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:background="@drawable/message_normal"
+            />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_marginTop="7dp"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:background="@drawable/ic_personal_tab_custom_topic"
+                />
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:textSize="15sp"
+                android:layout_marginLeft="10dp"
+                android:text="电话咨询"
+                android:textColor="#000"
+                />
+
+        </LinearLayout>
+
+        <ImageView
+            android:layout_marginRight="3dp"
+            android:layout_alignParentRight="true"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:background="@drawable/message_normal"
+            />
+
+    </RelativeLayout>
+</LinearLayout>

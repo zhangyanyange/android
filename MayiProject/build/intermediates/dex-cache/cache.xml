@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\libs\alipaySdk-20161222.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="341e981a9f87882cc427113db58c7a01f6b5dde4">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\alipaySdk-20161222_f940882ae6b13896346d106000646de8362ab40a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_2585d21b5a86e1fdecdaa5b6860632571cc3e651.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_676a9dc21413450b634a349654da85161582e31e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_8a87695a8872f11737eb6dad7fd00c099e0f886b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_918fdc60e67b038cb821dbba606714ee611c1013.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_d08067d5d7b6f9b2710bd2123b2f95be7a826de6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\library-2.4.0_459ff50bb999cab409a18dabaca93b0acc36ba45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_e3b1ae97d0eb5cbe2e89061b19cde09180ab9b8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_aede0cde4da30c3a588db268f70c4f00637a9114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5a55b7adf90780ace0d4168487189d413338dc85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\libs\okhttp-2.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="212387a39088ecd3daff8e3bfc3bdc4123e33c67">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\okhttp-2.6.0_4be90614eb8d53d8ae9b5119cd481306a8c370e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_676a9dc21413450b634a349654da85161582e31e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\libs\gson-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="126d1ea978aa87b87c90f32beac4dc966a318982">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\gson-2.2.3_ecec5680dd190bf82711b820b6f4c0a3dbdad20c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_2585d21b5a86e1fdecdaa5b6860632571cc3e651.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\libs\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\okio-1.6.0_92961cc1eb86b221be0e28f610899dfad195a928.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_21fc0f2f98bbd7f49d98eed8e75813537cc03b15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_245477eb2a48e77bb2ce1224ce9862b3d4fa308d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_75abd893a624a91485a8c5ff6a8e124ba72a1d19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\cn.jiguang\jpush\2.1.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bae57dc18d9f50285151cc473361ddaddb156cd">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\cn.jiguang-jpush-2.1.8_f24b8f9337c0ce612f39ebe32bf2429c43fabc91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\glide-3.7.0_53876b629357cad6a9bd4ad51d091a87fc0347ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_8a87695a8872f11737eb6dad7fd00c099e0f886b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_75d113f89ee578b228276c6576217e95b019a8d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.github.ybq\Android-SpinKit\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.github.ybq-Android-SpinKit-1.1.0_7674b5ac59ee7cd03fd28789d97b61473f07d4b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\cn.jiguang\jpush\2.1.8\jars\libs\jpush-android-2.1.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86f15a6e7555400affa351041374d5129e99660e">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\jpush-android-2.1.8_605d64592db91006028902e4971821c5df857d67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.bigkoo\pickerview\2.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0017e39fb3524d3fe4204646d4ed4c0913cd31b">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.bigkoo-pickerview-2.1.1_1ca2b2d6db85dea96ee07cc47af5b6f2143e2093.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_82b0422b8c71037797a00af8c2175bc14ef9b5c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_46b4ef2b70f9348f88b565099031b2bff5d0561c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.github.hackware1993\MagicIndicator\1.5.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc9c68aa8e850407de6231285bfd776aad227517">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.github.hackware1993-MagicIndicator-1.5.0_4373b26f4a96aa7b691142195e60f1f9599c540a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_46b4ef2b70f9348f88b565099031b2bff5d0561c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_e3b1ae97d0eb5cbe2e89061b19cde09180ab9b8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\library-2.4.0_459ff50bb999cab409a18dabaca93b0acc36ba45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\libs\gson-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="126d1ea978aa87b87c90f32beac4dc966a318982">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\gson-2.2.3_ecec5680dd190bf82711b820b6f4c0a3dbdad20c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\libs\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\okio-1.6.0_92961cc1eb86b221be0e28f610899dfad195a928.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2ffb55c541dc2806d4de76a1c6e4b5c23abbefe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_245477eb2a48e77bb2ce1224ce9862b3d4fa308d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_ff24aa276f65e5078b86cb3ad0bfe1a970009c92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_bd59b7d194000ebac0015d0814740a6f080bcf5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.3.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="577362cf9733c850c554a5dcb780ffd7ef25c0b7">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.zhy-okhttputils-2.3.8_e46f6e0c4a5b10fd5e37b105380f8e30275ba229.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.github.ybq\Android-SpinKit\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.github.ybq-Android-SpinKit-1.1.0_7674b5ac59ee7cd03fd28789d97b61473f07d4b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\cn.jiguang\jpush\2.1.8\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bae57dc18d9f50285151cc473361ddaddb156cd">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\cn.jiguang-jpush-2.1.8_f24b8f9337c0ce612f39ebe32bf2429c43fabc91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\cn.jiguang\jpush\2.1.8\jars\libs\jpush-android-2.1.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86f15a6e7555400affa351041374d5129e99660e">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\jpush-android-2.1.8_605d64592db91006028902e4971821c5df857d67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_82b0422b8c71037797a00af8c2175bc14ef9b5c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.bigkoo\pickerview\2.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0017e39fb3524d3fe4204646d4ed4c0913cd31b">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.bigkoo-pickerview-2.1.1_1ca2b2d6db85dea96ee07cc47af5b6f2143e2093.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\glide-3.7.0_53876b629357cad6a9bd4ad51d091a87fc0347ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.gxz.pagerslidingtabstrip\library\1.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e5a089ee7e8486130840f80ecda8052e73fc9ec">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.gxz.pagerslidingtabstrip-library-1.3_8be940029a2b3e865f1bf71689940b564e87ae6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.bigkoo\alertview\1.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="885c6a6ae87a2894197e141c74683cb132f2ac60">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.bigkoo-alertview-1.0.3_de7b9be67dc3f8d6dbdb6a820cc0315a964ed2df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_75d113f89ee578b228276c6576217e95b019a8d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_b3e082974cf9dc82db13b8698f2acff7e4121b32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_05951bd30c2b6ac8dec8325fbd9aa5ae1fa42689.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2ffb55c541dc2806d4de76a1c6e4b5c23abbefe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_ed6aba29a97b00bfd43e4f37eea1a02a76f36cab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_bd59b7d194000ebac0015d0814740a6f080bcf5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.github.hackware1993\MagicIndicator\1.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc9c68aa8e850407de6231285bfd776aad227517">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.github.hackware1993-MagicIndicator-1.5.0_4373b26f4a96aa7b691142195e60f1f9599c540a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_d976039b9a3810a2d692c5a16094e6d179b45d3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_ff24aa276f65e5078b86cb3ad0bfe1a970009c92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.3.8\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="577362cf9733c850c554a5dcb780ffd7ef25c0b7">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.zhy-okhttputils-2.3.8_e46f6e0c4a5b10fd5e37b105380f8e30275ba229.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5a55b7adf90780ace0d4168487189d413338dc85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_918fdc60e67b038cb821dbba606714ee611c1013.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_21fc0f2f98bbd7f49d98eed8e75813537cc03b15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.baoyz.swipemenulistview\library\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ec8378e8d7aa3104f60823e6350f2728d3609ba">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.baoyz.swipemenulistview-library-1.3.0_0861e3c88a2649aba35c2c0f0d814fd78568b274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\libs\alipaySdk-20161222.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="341e981a9f87882cc427113db58c7a01f6b5dde4">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\alipaySdk-20161222_f940882ae6b13896346d106000646de8362ab40a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.bigkoo\snappingstepper\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8380c192a3840751f31031a8ec4ba44328a4e0cd">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.bigkoo-snappingstepper-1.0.2_162f2582116aa4f70065e07c0d4460969052da0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.github.sd6352051.niftydialogeffects\niftydialogeffects\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6e011916db951e72f3a2be65cfb864bf5408035">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.github.sd6352051.niftydialogeffects-niftydialogeffects-1.0.0_f418ac9865e374d2fc520e84747338e7230704f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\libammsdk_e2ef26002dae38368834d83d16d997b944abf878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.bigkoo\alertview\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="885c6a6ae87a2894197e141c74683cb132f2ac60">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.bigkoo-alertview-1.0.3_de7b9be67dc3f8d6dbdb6a820cc0315a964ed2df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.gxz.pagerslidingtabstrip\library\1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e5a089ee7e8486130840f80ecda8052e73fc9ec">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.gxz.pagerslidingtabstrip-library-1.3_8be940029a2b3e865f1bf71689940b564e87ae6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_05951bd30c2b6ac8dec8325fbd9aa5ae1fa42689.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.github.sd6352051.niftydialogeffects\niftydialogeffects\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6e011916db951e72f3a2be65cfb864bf5408035">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.github.sd6352051.niftydialogeffects-niftydialogeffects-1.0.0_f418ac9865e374d2fc520e84747338e7230704f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.bigkoo\snappingstepper\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8380c192a3840751f31031a8ec4ba44328a4e0cd">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.bigkoo-snappingstepper-1.0.2_162f2582116aa4f70065e07c0d4460969052da0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_b3e082974cf9dc82db13b8698f2acff7e4121b32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\libs\libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\libammsdk_e2ef26002dae38368834d83d16d997b944abf878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.baoyz.swipemenulistview\library\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ec8378e8d7aa3104f60823e6350f2728d3609ba">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.baoyz.swipemenulistview-library-1.3.0_0861e3c88a2649aba35c2c0f0d814fd78568b274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\libs\okhttp-2.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="212387a39088ecd3daff8e3bfc3bdc4123e33c67">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\okhttp-2.6.0_4be90614eb8d53d8ae9b5119cd481306a8c370e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_75abd893a624a91485a8c5ff6a8e124ba72a1d19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_ed6aba29a97b00bfd43e4f37eea1a02a76f36cab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_aede0cde4da30c3a588db268f70c4f00637a9114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_d976039b9a3810a2d692c5a16094e6d179b45d3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\zy2\Desktop\MayiProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_d08067d5d7b6f9b2710bd2123b2f95be7a826de6.jar" />
+    </item>
+
+</items>
